@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "coffeemod",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "CoffeeMod",
+  "description": "Coffee in Minecraft. Slaps.",
   "authors": [
     "Me!"
   ],
@@ -19,11 +19,11 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "net.coffeecodeboys.coffeemod.coffeemod"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "coffeemod.mixins.json"
   ],
 
   "depends": {
