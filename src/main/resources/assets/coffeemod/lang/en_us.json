@@ -1,3 +1,4 @@
 {
-    "item.coffeemod.coffee": "Coffee Bean"
+    "item.coffeemod.coffee": "Coffee Bean",
+    "block.coffeemod.coffee_ore": "Coffee Ore"
 }
